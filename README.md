@@ -1,10 +1,10 @@
 # Código de Conduta
 
-Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades de TI do Telegram.
+Este guia traz sugestões e orientações de conduta para uma convivência saudável junto aos membros do BrazilCanadaIT.
 
 ## 1. Política anti-harassment
 
-- Canais signatários deste guia são locais livres de assédio ou preconceitos;
+- Os membros do BrazilCanadaIT devem ter uma postura livres de assédio e preconceitos (sexual, religioso, cultural ou de qualquer tipo);
 - Não serão tolerados comentários ofensivos sobre gênero, orientação sexual, deficiências, aparência física, raça ou credo;
 - Os membros do grupo não estão no grupo para paquerar, não insista, existem outras redes para isto;
 - O uso de conteúdo adulto em forma de vídeos, gif's, imagens ou áudio não será tolerado;
@@ -13,52 +13,49 @@ Esse guia traz sugestões e orientações de conduta para uma convivência saud�
 
 ## 2. Política anti-spam
 
-- Não faça SPAM, o telegram não é para isto.
+- Não faça SPAM
 
 ## 3. Política anti-pirataria
 
-- Pirataria é crime, não repasse links para material protegido no grupo;
-- Quem repassar material protegido poderá ser denunciado para o autor do material.
+- Pirataria é crime!
+- Não repasse links para material protegido no grupo;
+- Repassar material protegido serádenunciado para o autor do material. Reincidência acarretará na expulsão do grupo.
 
 ## 4. Orientações diversas
 
-Lembre-se que o telegram é uma rede mundial, dar bom dia, boa tarde e boa noite não faz sentido já que existem
-usuários em diversos fusos nos grupos, tente entender o contexto das conversas e interagir. Se preferir inicie um
-novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que telegram não é real-time-chat, mande a mensagem
-e aguarde os usuários do grupo interagirem a seu tempo.
+- Lembre-se que em todos os meios (redes sociais, listas de discussão, Slack, etc.), dar bom dia, boa tarde e boa noite não faz sentido já que existem usuários em diversos fusos nos grupos
+- Tente entender o contexto das conversas e interagir. Se preferir inicie um novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião
+- Mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
 
-### 4.1 Tema dos grupos
+### 4.1 Tema dos canais
 
-- Sempre que possível mantenha o tema central do grupo nas conversas;
-- Evite temas off-topics como games, futebol, credo e política;
-- Chame seu colega para um grupo off-topic ou em PVT para discutir esses temas se desejar.
+- Sempre que possível mantenha o tema central dos devidos grupos / canais;
+- Convide as pessoas para os devidos canais ou em PVT para discutir temas que desejar.
 
 ### 4.2 Divulgar vagas de emprego
 
-- Não divulgue vagas de emprego sem consultar os admins (em pvt);
+- Existe um canal específico para divulgação de vagas (#jobs);
 - Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com IT;
-- Existem canais no telegram específicos para este tipo de atividade.
 
-### 4.3 Divulgar canais
+### 4.3 Criação de canais
 
-- Não divulgue outros grupos ou canais sem consultar os admins (em pvt);
-- Se for autorizado pelos admins, ainda assim, evite fazer flood com o link do grupo.
+- A criação dos canais está restrita aos admins do grupo. Se desejar fazer alguma sugestão de tema entre em contato com algum admin.
+- Evite fazer flood com o link do grupo.
 
 ### 4.4 Divulgar eventos
 
-- Não divulgue eventos sem consultar os admins (em pvt);
-- Se for autorizado pelos admins, ainda assim, evite fazer flood com infos do eventos no grupo.
+- Divulgação de eventos deve ser feito no canal #events;
+- Evite fazer flood com infos do eventos no grupo.
 
 ### 4.5 Compartilhar Links
 
 - Evite fazer flood de links no canal;
 - Se quiser passar muitos links ou muito material o ideal é fazer um blogpost e compartilhar o link no grupo.
 
-### 4.6 Venda de produtos
+### 4.6 Anúncios de serviços / produtos
 
 - Não divulgue produtos, cursos ou quaisquer materiais sem consultar os admins (em pvt);
 - Se autorizado, ainda assim, a divulgação deste tipo de oferta deve ter link com o tema do grupo;
-- Existem canais no telegram específicos para este tipo de atividade.
 
 ### 4.7 Enviar código
 
