@@ -66,24 +66,12 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 
 ## 5. Grupos signatários deste guia
 
-[https://telegram.me/puppetbr](https://telegram.me/puppetbr)<br>
-[https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)<br>
-[https://telegram.me/vagrantbr](https://telegram.me/vagrantbr)<br>
-[https://telegram.me/dockerbr](https://telegram.me/dockerbr)<br>
-[https://telegram.me/ansiblebr](https://telegram.me/ansiblebr)<br>
-[https://telegram.me/elasticbr](https://telegram.me/elasticbr)<br>
-[https://telegram.me/devopsbr](https://telegram.me/devopsbr)<br>
-[https://telegram.me/go_br](https://telegram.me/go_br)<br>
-[https://telegram.me/chefbr](https://telegram.me/chefbr)<br>
+[https://brazilcanadait.slack.com/](https://brazilcanadait.slack.com/)<br>
 
-## 6. Como assinar?
-
-Converse com sua comunidade, pergunte se todos concordam e se sentem confortáveis em recomendar esse guia de conduta. Caso eles topem, basta enviar um PR adicionando o seu grupo na seção acima.
-
-## 7. Como contribuir?
+## 6. Como contribuir?
 
 Abra issues ou envie PRs para melhorar ou expandir este guia.
 
-## 8. Licença
+## 7. Licença
 
 Creative Commons BY-SA-NC
