@@ -19,7 +19,7 @@ Este guia traz sugestões e orientações de conduta para uma convivência saud�
 
 - Pirataria é crime!
 - Não repasse links para material protegido no grupo;
-- Repassar material protegido serádenunciado para o autor do material. Reincidência acarretará na expulsão do grupo.
+- Repassar material protegido será denunciado para o autor do material. Reincidência acarretará na expulsão do grupo.
 
 ## 4. Orientações diversas
 
