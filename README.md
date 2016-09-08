@@ -65,6 +65,10 @@ Este guia traz sugestões e orientações de conduta para uma convivência saud�
 
 [https://brazilcanadait.slack.com/](https://brazilcanadait.slack.com/)<br>
 
+[https://www.facebook.com/groups/BrazilCanadaIT/](https://www.facebook.com/groups/BrazilCanadaIT/)<br>
+
+[https://groups.google.com/forum/#!forum/brazilcanadait](https://groups.google.com/forum/#!forum/brazilcanadait)<br>
+
 ## 6. Como contribuir?
 
 Abra issues ou envie PRs para melhorar ou expandir este guia.
