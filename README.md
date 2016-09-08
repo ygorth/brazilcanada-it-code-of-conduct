@@ -27,24 +27,24 @@ Este guia traz sugestões e orientações de conduta para uma convivência saud�
 - Tente entender o contexto das conversas e interagir. Se preferir inicie um novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião
 - Mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
 
-### 4.1 Tema dos canais
+### 4.1 Tema dos canais (Slack)
 
 - Sempre que possível mantenha o tema central dos devidos grupos / canais;
 - Convide as pessoas para os devidos canais ou em PVT para discutir temas que desejar.
 
 ### 4.2 Divulgar vagas de emprego
 
-- Existe um canal específico para divulgação de vagas (brazilcanadait.slack.com - #jobs);
+- Existe um canal específico para divulgação de vagas, #jobs (Slack);
 - Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com IT;
 
-### 4.3 Criação de canais
+### 4.3 Criação de canais (Slack)
 
 - A criação dos canais está restrita aos admins do grupo. Se desejar fazer alguma sugestão de tema entre em contato com algum admin.
 - Evite fazer flood com o link do grupo.
 
 ### 4.4 Divulgar eventos
 
-- Divulgação de eventos deve ser feito no canal #events;
+- Divulgação de eventos deve ser feito no canal #events (Slack);
 - Evite fazer flood com infos do eventos no grupo.
 
 ### 4.5 Compartilhar Links
