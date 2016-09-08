@@ -34,7 +34,7 @@ Este guia traz sugestões e orientações de conduta para uma convivência saud�
 
 ### 4.2 Divulgar vagas de emprego
 
-- Existe um canal específico para divulgação de vagas (#jobs);
+- Existe um canal específico para divulgação de vagas (brazilcanadait.slack.com - #jobs);
 - Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com IT;
 
 ### 4.3 Criação de canais
