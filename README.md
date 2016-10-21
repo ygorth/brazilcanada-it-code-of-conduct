@@ -73,6 +73,10 @@ Este guia traz sugestões e orientações de conduta para uma convivência saud�
 
 Abra issues ou envie PRs para melhorar ou expandir este guia.
 
-## 7. Licença
+## 7. Como solicitar um convite?
+
+https://www.brazilcanadait.com/join-slack/
+
+## 8. Licença
 
 Creative Commons BY-SA-NC
